@@ -100,7 +100,7 @@ A small set of customers is responsible for a disproportionate share of revenue.
 ---
 
 ## 📸 Dashboard Preview
-[![Dashboard](Dashboard.png)]
+![Dashboard](Dashboard.png)
 
 
 ---
