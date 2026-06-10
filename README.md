@@ -109,11 +109,12 @@ A small set of customers is responsible for a disproportionate share of revenue.
 
 ```
 ecommerce-powerbi-dashboard/
-├── Dashboard.pbix
+├── Ecommerce Power BI Project.pbix
 ├── Data/
-│   └── ecommerce_data.xlsx
+│   └── Details.csv
+    └── Orders.csv
 ├── Screenshots/
-│   └── dashboard_preview.png
+│   └── Dashboard.png
 └── README.md
 ```
 
